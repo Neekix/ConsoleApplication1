@@ -6,8 +6,9 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+    ygyguihdluihgf
 
-    cout << "Mandarina";
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
